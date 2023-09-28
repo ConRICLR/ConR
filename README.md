@@ -3,7 +3,7 @@
 
 <p align="center">
     <img src="teaser.jpg" width="500"> <br>
-<b>ConR </b> Key insights of ConR. a) Without
+Key insights of <b>ConR </b>. a) Without
 ConR, it is common to have minority examples
 mixed with majority examples. b) ConR selects
 the sample with confusion around it as an anchor
